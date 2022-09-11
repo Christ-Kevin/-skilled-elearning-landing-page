@@ -425,11 +425,6 @@ article {
         font-size: 1.125rem;
         position: relative;
     }
-    
-    h2 {
-        font-size: 2rem;
-        line-height: 2.5rem;
-    }
 
     body>*:not(main),
     .main-container {
