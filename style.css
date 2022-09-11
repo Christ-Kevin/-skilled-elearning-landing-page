@@ -85,6 +85,10 @@ h1 {
     color: var(--bg-button1);
 }
 
+h3 {
+    color: var(--bg-button1);
+}
+
 body .header,
 body .section-header,
 body .footer {
@@ -179,6 +183,11 @@ footer {
 
 .section-header-wrapper img {
     margin: 0 auto;
+}
+
+h2 {
+    font-size: 1.5rem;
+    line-height: 2rem;
 }
 
 h2,
@@ -324,6 +333,11 @@ article {
         /*padding: 1.5rem 2.5rem 0 2.5rem;*/
         padding-top: 1.5rem;
     }
+    
+    h1 {
+        font-size: 3.5rem;
+        line-height: 4.4375rem;
+    }
 
     body .header,
     body .section-header,
@@ -410,6 +424,11 @@ article {
 
         font-size: 1.125rem;
         position: relative;
+    }
+    
+    h2 {
+        font-size: 2rem;
+        line-height: 2.5rem;
     }
 
     body>*:not(main),
