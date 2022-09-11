@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [Add solution URL here](https://github.com/Christ-Kevin/skilled-elearning-landing-page.git)
 - Live Site URL: [Add live site URL here](https://christ-kevin.github.io/skilled-elearning-landing-page/)
 
 ## My process
